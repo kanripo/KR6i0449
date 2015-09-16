@@ -1,26 +1,25 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:50.164787
+#+DATE: 2015-08-30 20:19:51.282032
 #+TITLE: 十二品生死經
 #+PROPERTY: CBETA_ID T17n0753
 #+PROPERTY: ID KR6i0449
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 753
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0449_T_000-0575a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0449_T_001-0575a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.753¶
-
- 《十二品生死經》¶
+No. 753¶
+《十二品生死經》¶
 ¶
 宋于闐國三藏求那跋陀羅譯¶
 
 聞如是：
 
-一時佛遊舍衛祇樹給孤獨精舍，爾¶
+一時佛遊舍衛祇樹給狐獨精舍，爾¶
 時佛告諸比丘：「我為汝說經。」比丘應：「唯然世¶
 尊！願受教勅。」¶
 
