@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:51.111383
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:38
 #+TITLE: 十二品生死經
 #+PROPERTY: CBETA_ID T17n0753
 #+PROPERTY: ID KR6i0449
